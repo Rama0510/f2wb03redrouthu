@@ -10,6 +10,6 @@ Renderlink:https://f2wb03redrouthu.onrender.com
 ### Class details:
 car
 car_name - string
-car_rent - number
+car_color - number
 car_size - number
 
